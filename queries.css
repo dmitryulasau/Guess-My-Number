@@ -6,6 +6,7 @@
   .btn {
     font-size: 1rem;
     padding: 1.6rem 2.4rem;
+    left: 10%;
   }
 
   .between {
@@ -31,14 +32,14 @@
   }
 
   .message {
-    font-size: 1.2rem;
+    font-size: 1rem;
     margin-bottom: 4rem;
-    height: 1rem;
+    height: 0rem;
     right: 10%;
   }
 
   p {
-    font-size: 1.2rem;
+    font-size: 1rem;
     right: 10%;
   }
 }
