@@ -1,0 +1,43 @@
+/***********************************/
+/* BELOW 690px (Smaller desktops) */
+/* *********************************/
+
+@media (max-width: 69em) {
+  .btn {
+    font-size: 1rem;
+    padding: 1.6rem 2.4rem;
+  }
+
+  .between {
+    font-size: 1.2rem;
+    right: 10%;
+  }
+
+  h1 {
+    font-size: 2rem;
+    top: 65%;
+  }
+
+  .number {
+    font-size: 3rem;
+    width: 10rem;
+    padding: 2rem 0rem;
+  }
+
+  .guess {
+    font-size: 3rem;
+    padding: 2rem;
+    width: 15rem;
+  }
+
+  .message {
+    font-size: 1.4rem;
+    margin-bottom: 4rem;
+    height: 1rem;
+    right: 10%;
+  }
+
+  p {
+    font-size: 1.4rem;
+  }
+}
