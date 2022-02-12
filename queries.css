@@ -31,13 +31,14 @@
   }
 
   .message {
-    font-size: 1.4rem;
+    font-size: 1.2rem;
     margin-bottom: 4rem;
     height: 1rem;
     right: 10%;
   }
 
   p {
-    font-size: 1.4rem;
+    font-size: 1.2rem;
+    right: 10%;
   }
 }
