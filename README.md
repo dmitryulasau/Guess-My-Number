@@ -1,2 +1,2 @@
 # Guess-My-Number
-First Udemy Project
+Guess a number between 1 and 20.
